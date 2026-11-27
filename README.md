@@ -1,17 +1,17 @@
 # cycle-jade
 Hi!
 
-This github profile stands as a clean showcase of my coding academic curriculum and my current public available projects.
+This Github profile stands as a clean showcase of my programming academic curriculum and my current publicly available projects.
 
 For now, it exclusively features my 42 School Common Core projects, which I have completed in their entirety.
 
-These projects demonstrate extensive use of C and C++, with glimpses of Java, Bash and Python for testing and supporting purposes. They cover a wide range of challenging development concepts, combining complex logic, problem-solving and mathematical principles.
+These projects demonstrate extensive use of C and C++, with some exposure to Java, Bash and Python for testing and supporting purposes. They cover a wide range of challenging development concepts, combining complex logic, problem-solving and mathematical principles.
 
 Each project is designed to teach specific concepts and development practices within its respective codebase. Completing them requires independent research, experimentation and problem-solving, with progress and solutions evaluated through a peer-to-peer system.
 
 Projects often involve months of development, and many must be in collaborative teams.
 
-The common core is devided into different sections each followed by very strict exams , which completion is essential to advance the curriculum.
+The common core is divided into different sections each followed by very strict exams, which completion is essential to advance the curriculum.
 
 The academic path also operates under strict deadlines, making time management and consistent progress essential to ensure the advancement of the course.
 
